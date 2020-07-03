@@ -1,0 +1,5 @@
+Credentials cache: API:E5C4F167-C56C-4CA0-BBD8-97307288DA40
+        Principal: seojpark@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jul  2 19:23:36 2020  Jul  3 05:23:36 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
